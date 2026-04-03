@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# data
+data/
+datasets/
+*.nii
+*.nii.gz
+*.h5
+
+# model weights
+*.pth
+*.pt
+*.ckpt
+
+# logs / outputs
+runs/
+logs/
+outputs/
+tmp/
+cache/
